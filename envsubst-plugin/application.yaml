@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/abohmeed/argocd-plugins-app.git'
+    repoURL: 'git@github.com:moeid404/envsubst-plugin.git'
     targetRevision: HEAD
     path: 'kustomize/overlays/development'
     plugin:
